@@ -6,6 +6,10 @@ Demo project.
 
 https://docs.spacexdata.com/
 
+## Apollo Graphql Client
+
+https://www.apollographql.com/docs/react/
+
 ## Grphiql Queries
 
 **1. All Launches**
@@ -35,4 +39,19 @@ https://docs.spacexdata.com/
 		}
     }
 }
+```
+
+## Run Server
+```
+start-server-dev
+```
+
+## Run Client
+```
+start-client-dev
+```
+
+## Open App
+```
+http://localhost:3000/
 ```
